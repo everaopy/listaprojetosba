@@ -1,5 +1,5 @@
-# listaprojetosba
-Lista com relação de projetos baianos que usam Python
+# Lista de projetos baianos que usam Python
+A intenção desta lista é reunir e divulgar projetos baianos que usam Python.
 
 ## Social
 
