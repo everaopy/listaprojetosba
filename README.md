@@ -1,6 +1,12 @@
 # Lista de projetos baianos que usam Python
 A intenção desta lista é reunir e divulgar projetos baianos que usam Python.
 
+## Grupos
+
+- [Grupy-BA](https://groups.google.com/forum/#!forum/grupy-ba)
+- [PyLadies Salvador](https://www.facebook.com/PyLadiesSalvador/)
+- [Grupo de estudos em Machine Learning no Raul Hackerspace](http://raulhc.cc) *voltará em Janeiro de 2017
+
 ## Social
 
 ### Hackeando pela Diversidade
@@ -12,12 +18,9 @@ A ideia do Hackeando pela Diversidade é pensar em soluções que visam melhorar
 Festa Estranha é um jogo sobre uma jovem que precisa ir para casa... mas não consegue sair de uma festa universitária!
 Desenvolvido pelo grupo Trinca, composto por duas baianas e uma mineira. O jogo foi desenvolvido usando a engine Ren'Py.
 Links:
-
-[Facebook](https://www.facebook.com/festaestranhagame/)
-
-[Site](http://trincastudio.tumblr.com/)
-
-[Compre ou baixe o jogo](https://trinca.itch.io/festa-estranha)
+- [Facebook](https://www.facebook.com/festaestranhagame/)
+- [Site](http://trincastudio.tumblr.com/)
+- [Compre ou baixe o jogo](https://trinca.itch.io/festa-estranha)
 
 ## Empresas
 
