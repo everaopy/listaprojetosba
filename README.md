@@ -3,7 +3,7 @@ A intenção desta lista é reunir e divulgar projetos baianos que usam Python.
 
 ## Grupos
 
-- [Grupy-BA](https://groups.google.com/forum/#!forum/grupy-ba)
+- [Grupy-BA](https://github.com/GruPyBA/encontros)
 - [PyLadies Salvador](https://www.facebook.com/PyLadiesSalvador/)
 - [Grupo de estudos em Machine Learning no Raul Hackerspace](http://raulhc.cc) *voltará em Janeiro de 2017
 
